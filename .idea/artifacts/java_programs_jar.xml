@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java programs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_programs_jar</output-path>
+    <root id="archive" name="java programs.jar">
+      <element id="module-output" name="java programs" />
+    </root>
+  </artifact>
+</component>

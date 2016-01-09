@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BMS">
+    <output-path>$PROJECT_DIR$/out/artifacts/BMS</output-path>
+    <root id="archive" name="BMS.jar">
+      <element id="module-output" name="java programs" />
+    </root>
+  </artifact>
+</component>

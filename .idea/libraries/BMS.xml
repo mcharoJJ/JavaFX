@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BMS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/BMS/BMS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
