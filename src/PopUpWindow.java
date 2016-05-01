@@ -21,7 +21,7 @@ import java.util.ArrayList;
 /**
  * Created by Shubho on 20-11-15.
  * PopUpWindow class
- * responsible for all PopUp msg error signlas
+ * responsible for all PopUp msg error signals
  * log in
  * this class's method has been frequently used throughout the application
  * implements Layout and InItButtons Interface (in order to full fill the criteria )
@@ -46,7 +46,7 @@ public class PopUpWindow implements Layout,InItButtons{
     /**
      * static method
      * its the head of this class
-     * it checks condition and and produces windows we need
+     * it checks condition and and produces windows as we need
      */
     public static void popUp() {
         popUpWindow.initButtons();
